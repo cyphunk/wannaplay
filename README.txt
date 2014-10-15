@@ -31,6 +31,16 @@ years ago in Budapest. Our experience of equality here does not
 translate outside of Berlin and many living here here may be more
 aware of this than we are.
 
+Actually I need to stop here and correct myself. Early today I asked
+a close friend to review my text and he reminded me that my description
+of Berlin as some bastion of liberty and understanding is completely
+off. I've developed this misplaced assumption because I spend most
+of my time within the confines of environments that celebrate this
+community, Hebbel Am Ufer being one of them. But in much of Berlin,
+as in much of Europe, bigotry is a daily problem. But my isolated
+understanding illustrates how easy it is to assume common understanding
+from ones own limited experiences.
+
 Understanding the limits of our own experience is so essential to
 this topic because the virtual world lacks the physical cues and
 hints that allow us to obtain common understanding and common
