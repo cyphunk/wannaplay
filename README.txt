@@ -106,3 +106,8 @@ in a manner for personal gain are in fact they themselves the ones
 whose personal gain should be examined. Because suggesting this is
 only as absurd as suggesting Dries built his project with intent
 to harm.
+
+
+This work by Nathan Andrew Fain is licensed under the
+Non-White-Heterosexual-Male License
+<http://nonwhiteheterosexualmalelicense.org/>.
