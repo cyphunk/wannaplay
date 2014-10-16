@@ -154,8 +154,9 @@ Wannaplay project, in Tindr and Grindr's response to the tracking
 issue. This can also be seen in the foundational protocols of the
 Internet itself where, for example, the same feature used to prevent
 Germans from hearing GEMA licensed music on Youtube is also utilised
-to oppress people around the world. The engineers that build these
-protocols have yet to address this injustice.
+to oppress people around the world, with life threatening consequences.
+The engineers that build these protocols have yet to address this
+injustice.
 
 In an increasingly digital world, one built by mostly male engineers,
 the question of capitalist drive of social structures seems mute.
