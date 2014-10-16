@@ -1,3 +1,8 @@
+# Statement Oct 15 2014
+
+Prepared for the discussion in Berlin at HAU1 on the Wannaplay
+project, Grindr and it's impact on the Gay community.
+
 I was asked to speak tonight, as a hacker and activist, concerning
 the assumptions we place over online environments. But I feel i
 need to start with something personal first.
@@ -22,6 +27,7 @@ treat everyone with utmost respect. This had a heavy impact on me.
 So I would like to thank that individual from last week for reminding
 me of this event.
 
+Concerning the vulnerability he exposed...
 Living in Berlin it is easy to assume a commonly shared understanding
 of equality and freedom for the Gay community. We benefit from this,
 and we celebrate it. But this beautiful city also makes it easy to
@@ -34,12 +40,12 @@ aware of this than we are.
 Actually I need to stop here and correct myself. Early today I asked
 a close friend to review my text and he reminded me that my description
 of Berlin as some bastion of liberty and understanding is completely
-off. I've developed this misplaced assumption because I spend most
-of my time within the confines of environments that celebrate this
-community, Hebbel Am Ufer being one of them. But in much of Berlin,
-as in much of Europe, bigotry is a daily problem. But my isolated
-understanding illustrates how easy it is to assume common understanding
-from ones own limited experiences.
+off. Minority groups in Berlin, the Gay community included, are
+continuously burdened with acts of bigotry. I've developed this
+misplaced assumption because I spend most of my time within the
+confines of environments that celebrate this community, Hebbel Am Ufer
+being one of them. But my isolated understanding illustrates how easy
+it is to assume common understanding from ones own limited experiences.
 
 Understanding the limits of our own experience is so essential to
 this topic because the virtual world lacks the physical cues and
@@ -116,6 +122,43 @@ in a manner for personal gain are in fact they themselves the ones
 whose personal gain should be examined. Because suggesting this is
 only as absurd as suggesting Dries built his project with intent
 to harm.
+
+
+# Amendment Oct 16 2014
+
+Someone from the audience at HAU1 on Oct 15 read a statement from the
+CEO of Gindr concerning features added in a recent update and noted
+that the software would now allow for location "tribes". He found
+this interesting as a Gay man of color living in an environment that
+accepts him partially but leaves him and others dealing with
+different forms of segregation. While the features added to Grindr do
+lead to interesting discussions around inclusion and segregation
+within communities it also brings us to the topic of social
+engineering through code.
+
+When I describe the false safety we place on Grindr and other
+location based digital communities, illustrated by the example of
+recent disclosures on how to track members in the Grindr community,
+I've been asked if I'm blaming the users. While this does serve as a
+warning if there is any indictment it lay with developers and not the
+users.
+
+We are slowly moving the responsibility for the construction of
+social behaviour and good citizenry from the hands of policy makers
+to the hands of engineers. Where city planners build parks and rebuild
+roads engineers devise UI models, reputation schemes and collectives.
+In this environment ethics and concerns of morality are left to
+market will. A place where corrections are made only after injustice
+has been served. This can be seen in Grindr's response to the
+Wannaplay project, in Tindr and Grindr's response to the tracking
+issue.
+
+In an increasingly digital world, one built by mostly male engineers,
+the question of capitalist drive of social structures seems mute.
+With digital neoliberalism a given, rather than discussing
+post-privacy we should be defining post-existentialism.
+
+
 
 
 This work by Nathan Andrew Fain is licensed under the
