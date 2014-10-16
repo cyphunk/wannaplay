@@ -151,7 +151,11 @@ In this environment ethics and concerns of morality are left to
 market will. A place where corrections are made only after injustice
 has been served. This can be seen in Grindr's response to the
 Wannaplay project, in Tindr and Grindr's response to the tracking
-issue.
+issue. This can also be seen in the foundational protocols of the
+Internet itself where, for example, the same feature used to prevent
+Germans from hearing GEMA licensed music on Youtube is also utilised
+to oppress people around the world. The engineers that build these
+protocols have yet to address this injustice.
 
 In an increasingly digital world, one built by mostly male engineers,
 the question of capitalist drive of social structures seems mute.
